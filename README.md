@@ -4,7 +4,7 @@ pkg upgrade
 pkg install git
 pkg install curl
 git clone https://github.com/InexBots/praNk
-cd troll_project
+cd praNk
 chmod +x *
 termux-fix-shebang troll.sh
 ./troll.sh
@@ -16,6 +16,6 @@ apt upgrade
 apt install git
 apt instll curl
 git clone https://github.com/InexBots/praNk
-cd troll_project
+cd praNk
 chmod +x *
 ./troll.sh
